@@ -1,0 +1,3 @@
+#!/bin/sh
+processing-java --run --sketch=/root/sketchbook/OpenBCI_Processing/OpenBCI_GUI/ --output=/root/sketchbook/OpenBCI_Processing/OpenBCI_GUI/output --force
+
